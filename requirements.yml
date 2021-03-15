@@ -1,0 +1,10 @@
+---
+- src: git@github.com:xussof/software_java8
+  scm: git
+  version: master
+  name: software_java8
+
+- src: git@github.com:xussof/software_curl
+  scm: git
+  version: master
+  name: software_curl
